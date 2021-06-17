@@ -1,0 +1,11 @@
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\bin\Debug\ProGym.exe.config
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\bin\Debug\ProGym.exe
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\bin\Debug\ProGym.pdb
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.csprojAssemblyReference.cache
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.Properties.Resources.resources
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.csproj.GenerateResource.cache
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.csproj.CoreCompileInputs.cache
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.exe
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.pdb
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.Presentacion.MenuPrincipal.resources
+C:\Users\CantoFedericoJ\source\repos\ProGym\ProGym\obj\Debug\ProGym.Presentacion.Socios.resources
